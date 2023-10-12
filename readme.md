@@ -1,4 +1,4 @@
-# GitHub-Actions-Zero-to-Hero kp
+# GitHub-Actions-Zero-to-Hero kp new commit check
 Repository to kick start your journey with GitHub Actions
 
 ## Comparing with Jenkins 
